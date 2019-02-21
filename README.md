@@ -57,5 +57,5 @@ TODO
 
 
 
-[ButlerImage]: https://github.com/weixuan2008/dingding-monolith/blob/master/dingding-monolith-master/core/dingding-micro-service/src/main/resources/static/images/dingding-red.png
-[website]: https://github.com/weixuan2008/dingding-monolith
+[ButlerImage]: https://github.com/weixuan2008/crypto-voting-master/blob/master/static/images/logo.png
+[website]: https://github.com/weixuan2008/crypto-voting-master
