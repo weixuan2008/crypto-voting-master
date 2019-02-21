@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# A crypto voting Dapp based on ethereum using solidity language and vue.js  javaScript framework.
+# A crypto voting Dapp with solidity and vue.js
 
 This is a simple decentralized application built using **Ethereum** blockchain and **Vue JS** for the front-end. This DApp example let the users store their profile (name and status) on the blockchain.
 
