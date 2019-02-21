@@ -1,7 +1,5 @@
 [![][ButlerImage]][website] 
 
-Crypto Voting v1.0 
--------------------
 
 # A crypto voting Dapp with solidity and vue.js
 
