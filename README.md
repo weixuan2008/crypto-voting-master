@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Ethereum and VueJS DApp
+# A crypto voting Dapp based on ethereum using solidity language and vue.js  javaScript framework.
 
 This is a simple decentralized application built using **Ethereum** blockchain and **Vue JS** for the front-end. This DApp example let the users store their profile (name and status) on the blockchain.
 
@@ -8,7 +8,7 @@ This is a simple decentralized application built using **Ethereum** blockchain a
 # Brief description
 The DApp allow users to register their name and status on the blockchain. The user's profile is associated with an account address (or wallet addres).
 
-The owner of the profile is the only person who can modify his own data. This will give you a technical explanation of what it means when the user is in control of his own data (just like Facebook¡­ sarcasm!).
+The owner of the profile is the only person who can modify his own data. This will give you a technical explanation of what it means when the user is in control of his own data (just like FacebookÂ¡Â­ sarcasm!).
 The **smart contract** is designed to give the user the **control of his own information** and not even the creator of the smart contract can control any data.
 
 # Prerequisite
