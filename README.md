@@ -47,7 +47,4 @@ Your application is running here: http://localhost:8080
 
 **NOTE:** if you want to try to add more user profiles you have to install metamask in your browser, then import the accounts into metamask and finally change account on metamask in order to register a new user.
 
-Visit [DanieleFavi.com](https://www.danielefavi.com/create-your-blockchain-dapp-with-ethereum-and-vuejs/) for more info.
-=======
 
->>>>>>> ee0b9b0d95da0672cafc52b9f56b91f23bc2d90c
