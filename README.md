@@ -29,13 +29,16 @@ The below is some snapshots that running on Ropsten test network. you also can d
 1) Download the project and decompress it into the folder **~/crypto-voting-master** (or wherever you want). OR directly using git clone command get source code.
 2) Start ganache (or your private blockchain).
 3) Open the command terminal in the folder **~/crypto-voting-master** and run the command:
+
   truffle.cmd compile
   truffle.cmd migrate
 
 4) If the migration was successful, copy the address of deployed contract to front-end javascript.
 5) And run the command:
+
   npm install
 6) Once all the dependencies are installed run the command:
+
   npm run dev
 
   If everything went fine, the terminal will display a message similar to:
