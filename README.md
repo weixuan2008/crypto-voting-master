@@ -24,6 +24,7 @@ The below is some snapshots that running on Ropsten test network. you also can d
 - Ganache version 1.2.2(local test network)
 - Ropsten (public test network)
 - Metamask plugin in Chrome
+- VS Code version 1.30.2(optional)
 
 # Quick Installation
 1) Download the project and decompress it into the folder **~/crypto-voting-master** (or wherever you want). OR directly using git clone command get source code.
@@ -52,7 +53,7 @@ The below is some snapshots that running on Ropsten test network. you also can d
 **NOTE:** If you want to try to add more user profiles you have to install metamask in your browser, then import the accounts into metamask and finally change account on metamask in order to register a new user.
 
 
-# Notes: 
+# Other notes: 
    1. For Ganache private network,the 10 default accounts with 100$ default balance will be generated after start
    2. For Ropsten network, you can register account and get free ETHER from faucet.
    3. In my env, Ropsten is very slow for functions calling, Ganache is my prefer test private network.
