@@ -1,7 +1,7 @@
 [![][ButlerImage]][website] 
 
 
-# A crypto voting Dapp with solidity and vue.js
+# A crypto voting Dapp with vue.js,web3j and solidity.
 
 This is a simple decentralized application built using **Ethereum** blockchain and **Vue JS** for the front-end. This DApp example let the users store their profile (name and status) on the blockchain.
 
