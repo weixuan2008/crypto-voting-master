@@ -7,8 +7,11 @@ This is a simple decentralized application built using **Ethereum** blockchain a
 ![N|Solid](https://github.com/weixuan2008/crypto-voting-master/blob/master/static/images/contract.PNG)
 
 ![N|Solid](https://github.com/weixuan2008/crypto-voting-master/blob/master/static/images/Summary.PNG)
+
 ![N|Solid](https://github.com/weixuan2008/crypto-voting-master/blob/master/static/images/vote.PNG)
+
 ![N|Solid](https://github.com/weixuan2008/crypto-voting-master/blob/master/static/images/vote-2.PNG)
+
 ![N|Solid](https://github.com/weixuan2008/crypto-voting-master/blob/master/static/images/vote-3.PNG)
 
 
