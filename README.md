@@ -16,54 +16,48 @@ The below is some snapshots that running on Ropsten test network. you also can d
 ![N|Solid](https://github.com/weixuan2008/crypto-voting-master/blob/master/static/images/vote-3.PNG)
 
 
-Brief description
--------------------
-The DApp allow users to register their name and status on the blockchain. The user's profile is associated with an account address (or wallet addres).
-
-The owner of the profile is the only person who can modify his own data. This will give you a technical explanation of what it means when the user is in control of his own data (just like Facebook¡­ sarcasm!).
-The **smart contract** is designed to give the user the **control of his own information** and not even the creator of the smart contract can control any data.
-
-# Prerequisite
-- NPM version 5.8.0
-- TRUFFLE verson 4.1.5
-- Ganache or your private network
-- Metamask: not mandatory but better if you want to register more users
+# Prerequisite 
+(Below is in my development environment)
+- NPM version 6.4.1
+- node verson 10.13.0
+- TRUFFLE verson 5.0.3
+- Ganache version 1.2.2(local test network)
+- Ropsten (public test network)
+- Metamask plugin in Chrome
 
 # Quick Installation
-1) Download the project and decompress it into the folder **~/ethereum-vuejs-dapp** (or wherever you want).
+1) Download the project and decompress it into the folder **~/crypto-voting-master** (or wherever you want). OR directly using git clone command get source code.
 2) Start ganache (or your private blockchain).
-3) Open the terminal (if you are using Windows you **must use the Power Shell**) in the folder **~/ethereum-vuejs-dapp** and run the command:
-```sh
-$ truffle console --network ganache
+3) Open the command terminal in the folder **~/crypto-voting-master** and run the command:
 ```
-4) If ganache is running you should be inside the truffle console; now run the following command in the truffle console:
-```sh
-> migrate --reset --compile-all
+truffle.cmd compile
+truffle.cmd migrate
 ```
-5) If the migration was successful, copy the content of the file **~/ethereum-vuejs-dapp/build/contracts/Users.json** into **~/ethereum-vuejs-dapp/app-users/src/assets/UsersContract.json**
-6) Open another terminal in the folder **~/ethereum-vuejs-dapp/app-users** and run the command:
-```sh
-$ npm install
+4) If the migration was successful, copy the address of deployed contract to front-end javascript.
+5) And run the command:
 ```
-7) Once all the dependencies are installed run the command:
-```sh
-$ npm run dev
+npm install
+```
+6) Once all the dependencies are installed run the command:
+```
+npm run dev
 ```
 If everything went fine, the terminal will display a message similar to:
-```sh
+```
 DONE  Compiled successfully in 5166ms           15:54:53
 
 Your application is running here: http://localhost:8080
 ```
-8) Open the browser, go to the URL shown by your terminal and play with the DApp!
+7) Open the browser, go to the URL shown by your terminal and play with the DApp!
 
 **NOTE:** if you want to try to add more user profiles you have to install metamask in your browser, then import the accounts into metamask and finally change account on metamask in order to register a new user.
 
 
-### Documentation:
--------------------
-TODO
-
+Notes: 
+   1. For Ganache private network,the 10 default accounts with 100$ default balance will be generated after start
+   2. For Ropsten network, you can register account and get free ETHER from faucet.
+   3. In my env, Ropsten is very slow for functions calling, Ganache is my prefer test private network.
+   5. You can deploy contract or test functions using remix(https://remix.ethereum.org/).
 
 
 
