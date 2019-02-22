@@ -3,8 +3,8 @@
 
 # A crypto voting Dapp with vue.js,web3j and solidity.
 
-    This **Vote** system is a simple decentralized application built using **Ethereum** blockchain and **Vue.js and web3 ** for the front-end. The Dapp is very simple, after deployment you can initialize a set of candidates, let anyone vote for the target candidate and display the total votes received by each candidate. of cause, you can add new candidate if you are owner of contract.
-    Thie below is some snapshots that running on Ropsten test network. you can deploy in on your private network, like Ganache,etc.
+  This **Vote** system is a simple decentralized application built using **Ethereum** blockchain and **Vue.js and web3 ** for the front-end. The Dapp is very simple, after deployment you can initialize a set of candidates, let anyone vote for the target candidate and display the total votes received by each candidate. of cause, you can add new candidate if you are owner of contract.
+  Thie below is some snapshots that running on Ropsten test network. you can deploy in on your private network, like Ganache,etc.
 
 ![N|Solid](https://github.com/weixuan2008/crypto-voting-master/blob/master/static/images/contract.PNG)
 
