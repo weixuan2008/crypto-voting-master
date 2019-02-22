@@ -57,9 +57,16 @@ The below is some snapshots that running on Ropsten test network. you also can d
    1. For Ganache private network,the 10 default accounts with 100$ default balance will be generated after start
    2. For Ropsten network, you can register account and get free ETHER from faucet.
    3. In my env, Ropsten is very slow for functions calling, Ganache is my prefer test private network.
-   5. You can deploy contract or test functions using remix(https://remix.ethereum.org/).
+   5. You also can deploy contract or test functions using remix(https://remix.ethereum.org/).
 
-
+# Reference
+   1. https://web3js.readthedocs.io/en/1.0/
+   2. https://buefy.org/documentation/start
+   3. https://metamask.github.io/metamask-docs/API_Reference/Ethereum_Provider#ethereum.on%28eventname%2C-callback%29
+   4. https://fontawesome.com/icons?d=gallery
+   5. https://truffleframework.com/boxes/truffle-vue
+   6. https://solidity.readthedocs.io/en/develop/solidity-in-depth.html
+   
 
 [ButlerImage]: https://github.com/weixuan2008/crypto-voting-master/blob/master/static/images/logo.png
 [website]: https://github.com/weixuan2008/crypto-voting-master
