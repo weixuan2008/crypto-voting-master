@@ -31,6 +31,7 @@ The below is some snapshots that running on Ropsten test network. you also can d
 3) Open the command terminal in the folder **~/crypto-voting-master** and run the command:
 
     $ truffle.cmd compile
+    
     $ truffle.cmd migrate
 
 4) If the migration was successful, copy the address of deployed contract to front-end javascript.
