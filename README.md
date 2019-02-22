@@ -62,7 +62,7 @@ The below is some snapshots that running on Ropsten test network. you also can d
 # Reference
    1. https://web3js.readthedocs.io/en/1.0/
    2. https://buefy.org/documentation/start
-   3. https://metamask.github.io/metamask-docs/API_Reference/Ethereum_Provider#ethereum.on%28eventname%2C-callback%29
+   3. https://metamask.github.io/metamask-docs/Main_Concepts/Getting_Started
    4. https://fontawesome.com/icons?d=gallery
    5. https://truffleframework.com/boxes/truffle-vue
    6. https://solidity.readthedocs.io/en/develop/solidity-in-depth.html
